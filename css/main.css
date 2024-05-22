@@ -11,7 +11,7 @@
 
 /*estilos generales*/
 body{
-    background-color: #ECEEF3;
+    background-color: #89a6f0;
    font-family: "Roboto", sans-serif;
 }
 
@@ -52,7 +52,7 @@ footer h4{
 }
 
 main .boton{
-    background-color: #51b0df;
+    background-color: #022131;
     padding: 0.6rem;
     margin-top: 1rem;
     box-shadow: 2px 2px 2px black ;
